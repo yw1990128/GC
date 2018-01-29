@@ -1,1 +1,6 @@
 only test
+如何实现第一次上传Git，请看下边。
+https://www.cnblogs.com/shenchanghui/p/7184101.html
+
+git diff
+查看文件修改
